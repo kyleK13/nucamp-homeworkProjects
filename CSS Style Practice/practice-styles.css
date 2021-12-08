@@ -1,0 +1,55 @@
+body {
+    background: url(../images/cafe1.png);
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    border: blueviolet double 5px;
+    padding: 10px;
+    margin: 40px 50px;
+    color: blueviolet;
+    font: 32px Garamond, Helvetica, serif;
+}
+h2 {
+    
+    border: blueviolet solid 5px;
+    color: black;
+    font: 20px Garamond, Helvetica, serif;
+}
+section{
+    width: 50%;
+    padding: 10px;
+    border: blueviolet double 5px;
+    margin: 40px 50px;
+}
+table {
+    width: 50%;
+}
+img {
+    padding: 0px;
+    border: blueviolet double 5px;
+    margin: 40px 50px;
+}
+h1, #menuId, #reviewSubmit, #contact {
+    background-color: burlywood;
+}
+
+thead {
+    text-align: left;
+    background-color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+tbody {
+    background-color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+label {
+    display: block;
+}
+
+#submit-btn {
+    display: block;
+    background-color: red;
+}
