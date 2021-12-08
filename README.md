@@ -1,8 +1,8 @@
 # nucamp-homeworkProjects
-nucamp online course homework exercises
+Nucamp online course homework exercises
 
-In this repository I have included a few exercises to display what I have learned so far with my online course for HTML, CSS and JavaScript.  
-Below is a bit of a explanation for each project folder.
+In this repository I have included a few exercises to display what I have learned so far with my online course for HTML, CSS and JavaScript.  These exercises were completed 
+throughout the week while studying the various topics. Below is a bit of a explanation for each project folder.
 
 CSS Style Practice - In this folder I have both a HTML and a CSS file. For this assignment we learned how to write the styles externally with a seperate CSS file.  
 I created a small cafe menu with different boarders for headers, different colors, fonts and a image to occupy the background of the page. I included a review section 
