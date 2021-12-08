@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;     
+}
+
+.survey-form {
+    width: 80%;      /* Form element takes up 80% of the container */
+    margin: auto;    /* Centers it  */
+}
+
+#submit-btn {
+    background: green; 
+    color: white;
+}
